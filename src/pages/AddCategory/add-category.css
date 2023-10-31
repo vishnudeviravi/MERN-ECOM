@@ -1,0 +1,21 @@
+.add-category {
+  padding: 50px 70px;
+}
+
+.add-category-btn {
+  margin-top: 40px;
+}
+
+.add-category .form {
+  width: 500px;
+  margin-top: 50px;
+}
+
+.form label {
+  display: block;
+  margin-bottom: 20px;
+}
+
+.upload-div {
+  margin-top: 40px;
+}

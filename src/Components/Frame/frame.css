@@ -1,0 +1,14 @@
+.frame {
+  display: flex;
+  width: 100%;
+}
+.right-frame {
+  width: 84%;
+}
+
+.frame .right-frame .content h1 {
+  padding: 20px;
+  font-size: 45px;
+  font-weight: 300;
+  color: #6528f7;
+}

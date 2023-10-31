@@ -1,0 +1,12 @@
+.content .price {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+.content .price h2 {
+  font-weight: 500;
+}
+
+.content .price h3 {
+  color: green;
+}

@@ -1,0 +1,37 @@
+.customer-login {
+  width: 25%;
+  height: 600px;
+  margin: 100px auto;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  border-radius: 10px;
+}
+
+.customer-login h1 {
+  text-align: center;
+  font-weight: 500;
+  padding: 20px;
+  padding-top: 40px;
+  color: #9d76c1;
+}
+
+.customer-login .form {
+  width: 80%;
+  margin: 0 auto;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  gap: 20px;
+}
+
+.customer-login label {
+  font-weight: 400;
+}
+
+.customer-login .login-btn {
+  margin-top: 20px;
+}
+.customer-login p {
+  text-align: center;
+  width: 100%;
+}
